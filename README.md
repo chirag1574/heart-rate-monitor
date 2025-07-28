@@ -62,13 +62,3 @@ Coming soon... *(or you can insert a YouTube link or GIF here)*
 
 ---
 
-## 📂 Folder Structure (Simplified)
-
-lib/
-├── main.dart
-├── screens/
-│ └── home_screen.dart
-├── widgets/
-│ └── pulse_meter.dart
-├── services/
-│ └── camera_service.dart
