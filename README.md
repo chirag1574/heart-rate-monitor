@@ -35,7 +35,7 @@ It is designed to help users:
 
 ## 🎥 Demo
 
-Coming soon... *(or you can insert a YouTube link or GIF here)*
+Coming soon... *()*
 
 > _"Built not just for health, but peace of mind."_
 
